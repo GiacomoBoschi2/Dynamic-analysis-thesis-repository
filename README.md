@@ -40,6 +40,6 @@ For the class_method_signatures.js functions:
 https://github.com/0xdea/frida-scripts
 
 Thesis related to the repo:
-TODO
+https://amslaurea.unibo.it/id/eprint/37098/
 
 
